@@ -1,5 +1,6 @@
 # jQuery-form
 
+### https://kanaitakeshi.github.io/jQuery-form/
 - 要素の値を取得する（１）
   - textメソッド  
   - htmlメソッド  
